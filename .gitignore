@@ -1,0 +1,32 @@
+# Vivado generated directories
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.srcs/
+.Xil/
+
+# Vivado project and log files
+*.xpr
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+*.backup.*
+vivado*.jou
+vivado*.log
+webtalk*
+usage_statistics_webtalk.*
+
+# Bitstreams and checkpoints (rebuild from source)
+*.bit
+*.dcp
+*.ltx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
